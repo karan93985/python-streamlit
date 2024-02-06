@@ -1,1 +1,1 @@
-# simple-stock-price-streamlit
+# Python streamlit applications
